@@ -105,6 +105,7 @@ if __name__ == "__main__":
 
 
     for sequence_id, sequence in sequences.items():
+        sequence = sequence.upper()
         amino_sequence = translate_frame(sequence[0:])
         write_fasta(sequence_id,amino_sequence)
 
