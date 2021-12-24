@@ -1,0 +1,52 @@
+E-coli.fa
+TGA_DNA	164560
+TAA_DNA	135187
+TAG_DNA	53119
+TGA_DNA_Percentage	46.64
+TAA_DNA_Percentage	38.31
+TAG_DNA_Percentage	15.05
+TGA_Usage	1151
+TAA_Usage	2621
+TAG_Usage	279
+TGA_Usage_Percentage	28.41
+TAA_Usage_Percentage	64.70
+TAG_Usage_Percentage	6.89
+/home/nick/Desktop/Ensem/DNA/Candidatus_nasuia_deltocephalinicola.ASM144788v1.dna.toplevel.fa.gz
+TGA_DNA	2743
+TAA_DNA	14787
+TAG_DNA	2404
+TGA_DNA_Percentage	13.76
+TAA_DNA_Percentage	74.18
+TAG_DNA_Percentage	12.06
+TAA_Usage	130
+TAG_Usage	11
+TGA_Usage	0
+TGA_Usage_Percentage	0.00
+TAA_Usage_Percentage	92.20
+TAG_Usage_Percentage	7.80
+/home/nick/Desktop/Ensem/DNA/Acetobacter_ghanensis.Acetobacter_ghanensis.dna.toplevel.fa.gz
+TGA_DNA	75848.00
+TAA_DNA	46202.00
+TAG_DNA	27280.00
+TGA_Usage	1273.00
+TAG_Usage	302.00
+TAA_Usage	1123.00
+TGA_DNA_Percentage	49.89
+TAA_DNA_Percentage	30.39
+TAG_DNA_Percentage	17.94
+TGA_Usage_Percentage	0.84
+TAA_Usage_Percentage	0.74
+TAG_Usage_Percentage	0.20
+/home/nick/Desktop/Ensem/DNA/Acetobacter_ghanensis.Acetobacter_ghanensis.dna.toplevel.fa.gz
+TGA_DNA	75848.00
+TAA_DNA	46202.00
+TAG_DNA	27280.00
+TGA_Usage	1273.00
+TAG_Usage	302.00
+TAA_Usage	1123.00
+TGA_DNA_Percentage	50.73
+TAA_DNA_Percentage	30.90
+TAG_DNA_Percentage	18.25
+TGA_Usage_Percentage	47.18
+TAA_Usage_Percentage	41.62
+TAG_Usage_Percentage	11.19
